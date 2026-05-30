@@ -1,2 +1,2 @@
-# Replit-
+# Replit 
 Replit Projects 
