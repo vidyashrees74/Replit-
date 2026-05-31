@@ -58,7 +58,7 @@ Use simple approximate conversions for common cooking units like grams, kilogram
 - Support saving past recipe remixes.(also print recipes)
 - Add better styling and mobile responsiveness.
 - Polish UI better for smooth experience
-- add more tools which helps user experiment there favourite recipes and see if it is possible or not
+- Add more tools which helps users experiment their favourite recipes and see if it is possible or   not
 
 ## Notes
 
